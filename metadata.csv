@@ -1,0 +1,27 @@
+Samples,Tissues,Species,Replicates
+Tc_ant_1,Antenae,Tribolium castaneum,1
+Tc_ant_2,Antenae,Tribolium castaneum,2
+Tc_ant_3,Antenae,Tribolium castaneum,3
+Tc_ant_5,Antenae,Tribolium castaneum,4
+Tc_leg_1,leg,Tribolium castaneum,1
+Tc_leg_2,leg,Tribolium castaneum,2
+danaus_leg1,leg,Danaus plexipus,1
+danaus_leg3,leg,Danaus plexipus,2
+danaus_leg4,leg,Danaus plexipus,3
+danaus_leg5,leg,Danaus plexipus,4
+danaus_leg6,leg,Danaus plexipus,5
+danaus_ant1,Antenae,Danaus plexipus,1
+danaus_ant2,Antenae,Danaus plexipus,2
+danaus_ant3,Antenae,Danaus plexipus,3
+danaus_ant4,Antenae,Danaus plexipus,4
+danaus_ant5,Antenae,Danaus plexipus,5
+mel_an1,Antenae,heliconius melpomene,1
+mel_an2,Antenae,heliconius melpomene,2
+mel_an3,Antenae,heliconius melpomene,3
+mel_an4,Antenae,heliconius melpomene,4
+mel_an5,Antenae,heliconius melpomene,5
+mel_an6,Antenae,heliconius melpomene,6
+mel_leg1,leg,heliconius melpomene,1
+mel_leg2,leg,heliconius melpomene,2
+mel_leg3,leg,heliconius melpomene,3
+mel_leg4,leg,heliconius melpomene,4
